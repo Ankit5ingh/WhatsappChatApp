@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="media"
+        path="Android/media/com.ankit.chatapp/ChatApp" />
+    <external-path
+        name="data"
+        path="Android/data/com.ankit.chatapp/ChatApp" />
+    <files-path
+        name="files"
+        path="." />
+</paths>

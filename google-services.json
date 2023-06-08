@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942025862073",
+    "firebase_url": "https://chat-app-e7930-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-e7930",
+    "storage_bucket": "chat-app-e7930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942025862073:android:8a513b8f9b3782160ce468",
+        "android_client_info": {
+          "package_name": "com.ankit.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942025862073-53anpgtgq2a1l3if5d1hiknvi4r0di70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit.chatapp",
+            "certificate_hash": "c4b85b59ab25df59a6fadad3eeaf47b5f07a602c"
+          }
+        },
+        {
+          "client_id": "942025862073-pkjfc4squrj90d0sn4jeecr9m3mf1e3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFnZNCnZCuIWpSsZT_q9sTNvMa5YAfsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942025862073-npv82knh0dspjrkdnn3of8c62jqqp8h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

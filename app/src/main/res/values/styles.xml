@@ -4,7 +4,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@drawable/layer_list_splash</item>
     </style>
 
     <!-- Base application theme. -->
@@ -13,7 +13,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@drawable/clouds_1923545_v7</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
     </style>
 
     <style name="SeekBar" parent="Widget.AppCompat.SeekBar"/>
@@ -29,7 +29,7 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textColorPrimary">@android:color/white</item>
         <item name="android:textColorSecondary">@android:color/white</item>
-        <item name="android:windowBackground">@drawable/clouds_1923545_v7</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
 <!--        <item name="android:windowTranslucentStatus">true</item>-->
 <!--        <item name="windowActionBar">false</item>-->
 <!--        <item name="windowNoTitle">true</item>-->

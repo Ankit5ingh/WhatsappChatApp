@@ -4,7 +4,7 @@
 
     <item
         android:gravity="center"
-        android:drawable="@drawable/clouds_1923545_v7"/>
+        android:drawable="@color/colorPrimary"/>
 
     <item>
         <bitmap
